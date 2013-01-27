@@ -1,0 +1,11 @@
+# Ignore compiled code
+obj
+bin
+
+# And code::blocks stuff
+Makefile
+*.cbp
+*.workspace
+*.layout
+*.xml
+*.make
